@@ -1,0 +1,3 @@
+[submodule "submodule_parent"]
+	path = submodule_parent
+	url = https://github.com/mi991203/submodule_parent.git
